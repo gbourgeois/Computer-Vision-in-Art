@@ -1,4 +1,4 @@
-# Computer-Vision-in-Art
+# Computer Vision in Art
 
 :rotating_light: If you think something is missing or wrong or you have any suggestions, feel free to submit a pull request. Feedback and contributions are welcome! :relaxed:
 
