@@ -73,6 +73,10 @@ ICDAR 2019. [[PDF](https://cmp.felk.cvut.cz/~chum/papers/Jenicek-ICDAR19.pdf)]
 *Xi Shen, Alexei A. Efros, Mathieu Aubry*<br>
 CVF 2019. [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Discovering_Visual_Patterns_in_Art_Collections_With_Spatially-Consistent_Feature_Learning_CVPR_2019_paper.pdf)] 
 
+**The Curator’s Machine: Clustering of Museum Collection Data through Annotation of Hidden Connection Patterns between Artworks**<br>
+*B{\"o}nisch, Dominik*<br>
+International Journal for Digital Art History 2020. [[PDF](https://journals.ub.uni-heidelberg.de/index.php/dah/article/download/75953/75160)]
+
 
 # Conferences and workshops:
 CVPR 2021 Workshop [[Link](https://sites.google.com/view/ec3v-cvpr2021/program?authuser=0)] <br>
