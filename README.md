@@ -51,6 +51,10 @@ Journal on Computing and Cultural Heritage 2021. [[PDF](https://dl.acm.org/doi/p
 *Panos Achlioptas, Maks Ovsjanikov, Kilichbek Haydarov, Mohamed Elhoseiny, Leonidas Guibas*<br>
 arXiv preprint 2021. [[PDF](https://arxiv.org/abs/2101.07396)]
 
+**Materials In Paintings (MIP): An interdisciplinary dataset for perception, art history, and computer vision**<br>
+*Van Zuijlen Mitchell JP, Hubert Lin, Kavita Bala, Sylvia C. Pont, and Maarten WA Wijntjes*<br>
+Plos one 2021. [[HTML](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255109)]
+
 
 ## Art Classification:
 
