@@ -39,6 +39,11 @@ EVA London 2021. [[PDF](https://www.scienceopen.com/document_file/1afdb236-5558-
 *Brendan Ciecko*<br>
 MW20 Online 2020. [[PDF](https://www.researchgate.net/profile/Brendan-Ciecko/publication/339603082_AI_Sees_What_The_Good_the_Bad_and_the_Ugly_of_Machine_Vision_for_Museum_Collections/links/5e5be453299bf1bdb84aade3/AI-Sees-What-The-Good-the-Bad-and-the-Ugly-of-Machine-Vision-for-Museum-Collections.pdf)]
 
+**Computer vision for artists and designers: pedagogic tools and techniques for novice programmers**<br>
+*Golan Levin*<br>
+AI \& SOCIETY 2006. [[PDF](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s00146-006-0049-2.pdf&casa_token=ovv3EQqjYnAAAAAA:gPUnUAJPsCs5KiajsWDVCgFJPU-wzB_AwsYTxhY3gPRfvYvkS-lrviBuouNUL-epsBYLp0E9g5DnyHE)]
+
+
 
 ## Paintings Tag Generation:
 
